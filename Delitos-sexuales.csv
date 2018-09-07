@@ -1,4 +1,4 @@
-﻿Fecha,Departamento,Municipio,Dia,Hora,Barrio,Zona,Clase_de_sitio,Arma_empleada,Movil Agresor,Movil Victima,Edad,Sexo,Estado_civil,Pais_de_nacimiento,Clase_de_empleado,Profesion,Escolaridad,Codigo_DANE,Cantidad
+﻿Fecha,Departamento_DelitoSexual,Municipio_DelitoSexual,Dia,Hora,Barrio,Zona,Clase_de_sitio,Arma_empleada,Movil Agresor,Movil Victima,Edad,Sexo,Estado_civil,Pais_de_nacimiento,Clase_de_empleado,Profesion,Escolaridad,Codigo_DANE,Cantidad
 01/01/2018 12:00:00 AM,AMAZONAS,LETICIA (CT),Lunes,12/31/1899 12:00:00 AM,SAN MARTIN,URBANA,ENTIDAD PUBLICA / ESTATAL,NO REPORTADO,A PIE,A PIE,14,FEMENINO,SOLTERO,-,EMPLEADO PARTICULAR,NO REPORTADA,NO REPORTADO,91001000,1
 01/01/2018 12:00:00 AM,ANTIOQUIA,AMAGA,Lunes,12/31/1899 12:00:00 AM,LA GUALI,URBANA,VIAS PUBLICAS,SIN EMPLEO DE ARMAS,A PIE,A PIE,15,FEMENINO,SOLTERO,COLOMBIA,EMPLEADO PARTICULAR,-,PRIMARIA,5030000,1
 01/01/2018 12:00:00 AM,ANTIOQUIA,AMALFI,Lunes,12/31/1899 12:00:00 AM,NARANJITO,URBANA,VIAS PUBLICAS,SIN EMPLEO DE ARMAS,A PIE,A PIE,-,FEMENINO,SOLTERO,-,EMPLEADO PARTICULAR,-,PRIMARIA,5031000,1
